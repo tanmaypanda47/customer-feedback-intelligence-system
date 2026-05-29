@@ -1,0 +1,15 @@
+transformers
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+streamlit
+fastapi
+uvicorn
+plotly
+matplotlib
+seaborn
+datasets
+accelerate
+sentencepiece
